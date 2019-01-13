@@ -1,0 +1,10 @@
+gen
+build
+*.pyc
+*.pyo
+.project
+.pydevproject
+sdl2.i
+dist/
+gen3/
+.idea/
